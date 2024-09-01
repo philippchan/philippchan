@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I'm a tech enthusiast in Hong Kong and I mostly post stuff about Python, data science and finance here. 
+Engineer and Date Scientist based in Hong Kong. I mostly post stuff about Python, data science and finance here. 
 
 ### 🔭 I’m currently working on ...
-- Rime, a Chinese typing method for Cantonese speakers
 - Machine learning models for Dissolved Gas Analysis. Find out more [here](https://github.com/philippchan/DGA).
+- Option Matrix Calculator. Find out more [here]([https://github.com/philippchan/DGA](https://github.com/philippchan/optionmatrixvue)).
+- Rime, a Chinese typing method for Cantonese speakers.
 
 ### ✏️  Blog posts
 
 - [Decomposition of P&L of European Options](https://pchanhaha.medium.com/decomposition-of-p-l-of-european-options-419f3818f8aa)
 - [Best ways to charge your phones](https://pchanhaha.medium.com/best-ways-to-charge-your-phones-7cdd4b2a5be1)
-- [學英文用邊本字典好？](https://pchanhaha.medium.com/%E5%AD%B8%E8%8B%B1%E6%96%87%E7%94%A8%E9%82%8A%E6%9C%AC%E5%AD%97%E5%85%B8%E5%A5%BD-54a038d343fa)
 
 <!-- 
 - 🌱 I’m currently learning ...
